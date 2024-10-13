@@ -44,4 +44,4 @@ Använd gärna löpnummer, skriv på engelska, alltid småbokstäver och utan me
     * ...enkatalog upp?
     * ...två kataloger upp?
 3. Koppla ihop alla dina filer så att man kan hoppa mellan dem på ett rimligt sätt. Tips! ```<a href=""></a>``` är elementet du behöver använda. Från startsidan bör man kunna ta sig till *about.html*, samt alla receptsidor. Alla individuella sidor bör dessutom kunna leda användaren tillbaks till startsidan.
-4. Länka in en av dina bilder i filen *salmon.html*, och den andra i *putanesca.html*. Tips! För att länka in bilder behöver du använda ```<img src="">```.
+4. Levelup! Länka in en av dina bilder i filen *salmon.html*, och den andra i *putanesca.html*. Tips! För att länka in bilder behöver du använda ```<img src="">```.
